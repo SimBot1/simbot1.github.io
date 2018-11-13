@@ -2,4 +2,4 @@
 Simbot Website
 ---------------
 
-####A website for Simbot.
+A website for Simbot.
